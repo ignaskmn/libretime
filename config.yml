@@ -139,9 +139,9 @@ stream:
       port: 8000
       source_password: hackme
       admin_password: hackme
-      name: LibreTime!
-      description: LibreTime Radio!
-      website: https://libretime.org
+      name: KMNRadijas!
+      description: Kauno Menininkų Namų Radijas!
+      website: https://radijas.kmn.lt
       genre: various
 
     # Icecast output streams.
@@ -210,11 +210,11 @@ stream:
           enable_metadata: false
 
         # Icecast stream name.
-        name: LibreTime!
+        name: KMNRadijas!
         # Icecast stream description.
-        description: LibreTime Radio!
+        description: Kauno Menininkų Namų Radijas!
         # Icecast stream website.
-        website: https://libretime.org
+        website: https://radijas.kmn.lt
         # Icecast stream genre.
         genre: various
 
@@ -257,9 +257,9 @@ stream:
           bitrate: 256
 
         # Shoutcast stream name.
-        name: LibreTime!
+        name: KMNRadijas!
         # Shoutcast stream website.
-        website: https://libretime.org
+        website: https://radijas.kmn.lt
         # Shoutcast stream genre.
         genre: various
 
